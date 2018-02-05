@@ -1,0 +1,42 @@
+{
+  "Inputs": {
+    "input1": {
+      "ColumnNames": [
+        "price",
+        "model",
+        "cpu_model",
+        "product_line",
+        "external_graphic_card_model",
+        "external_graphic_card_memory",
+        "screen_resolution",
+        "ram",
+        "cpu_line"
+      ],
+      "Values": [
+        [
+          "0",
+          "B551LG_CN015",
+          "3630QM",
+          "Zenbook",
+          "GTX_960M",
+          "0",
+          "FHD",
+          "0",
+          "Intel_Core_i3"
+        ],
+        [
+          "0",
+          "B551LG_CN015",
+          "3630QM",
+          "Zenbook",
+          "GTX_960M",
+          "0",
+          "FHD",
+          "0",
+          "Intel_Core_i3"
+        ]
+      ]
+    }
+  },
+  "GlobalParameters": {}
+}
